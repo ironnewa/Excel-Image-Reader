@@ -1,0 +1,5 @@
+WhiteListed characters: abcdefghijklmnopqrstuvwxyz
+			ABCDEFGHIJKLMNOPQRSTUVWXYZ
+			1234567890/\
+
+Image file set names must have the format 'n model' and 'n+1 serial'

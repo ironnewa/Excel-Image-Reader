@@ -15,7 +15,7 @@ This project is meant to catalog pictures of equipment serial numbers into a Exc
 - pytesseract
 - openpyxl
 
-## How it works
+## Program Process
 
 1. Pick the folder containing your images.
 2. Pick an output folder.

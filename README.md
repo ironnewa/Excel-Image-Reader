@@ -1,6 +1,6 @@
 # Excel Image Reader
 
-This is more of a pet project of main, it is not very clean.
+This is more of a pet project of main. It could do with some refactoring.
 
 Excel Image Reader is a Python desktop tool that scans images with Tesseract OCR and exports the results to an Excel workbook. It uses Google Tesseract for text extraction, and openpyxl for interfacing with excel using python.
 
